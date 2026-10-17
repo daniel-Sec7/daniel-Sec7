@@ -27,30 +27,27 @@
 
 <img align="right" alt="Ethical Hacking GIF" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-👨‍💻✨ It all started with a simple curiosity to understand how things work behind the screen... Today, cybersecurity is not just my career path — it’s one of my greatest dreams. Every line of code, every vulnerability discovered, and every piece of data analyzed brings me closer to my purpose: protecting what others often overlook.
-
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        👨💻✨ <em>It all started with a simple curiosity to understand how things work behind the screen... Today, cybersecurity is not just my career path — it’s one of my greatest dreams. Every line of code, every vulnerability discovered, and every piece of data analyzed brings me closer to my purpose: protecting what others often overlook.</em>
+      </p>
+      <br/>
+      <ul>
+        <li>🔐 <b>Cybersecurity Specialist & Ethical Hacker:</b> Especializado en <i>pentesting</i> y análisis forense.</li>
+        <li>📊 <b>Futuro Científico de Datos enfocado en Seguridad:</b> Transformo grandes volúmenes de datos en inteligencia accionable para anticipar y mitigar amenazas.</li>
+        <li>🛡️ <b>Defensa de Infraestructuras Tecnológicas:</b> Detectando vulnerabilidades, analizando riesgos y diseñando soluciones robustas.</li>
+        <li>🔍 <b>Experto en Análisis de Logs y Detección de Amenazas:</b> Dominio en herramientas de monitoreo, correlación de eventos y respuesta ante incidentes.</li>
+        <li>💼 <b>Fusión Dual (Hacking Ético + Analítica Avanzada):</b> Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desde una perspectiva integral.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img alt="Ethical Hacking GIF" width="360" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="border-radius: 10px; border: 1px solid #00FF41;"/>
+    </td>
+  </tr>
+</table>
 <br/>
-
----
-
-
-🔐 **Cybersecurity Specialist** y **Ethical Hacker** especializado en pentesting y análisis forense
-
-📊 Futuro Científico de Datos enfocado en Seguridad
-Transformo grandes volúmenes de datos en inteligencia accionable para anticipar y mitigar amenazas.
-
-🛡️ Fortalezco la seguridad de infraestructuras tecnológicas
-Detectando vulnerabilidades, analizando riesgos y diseñando soluciones robustas.
-
-🔍 Experto en análisis de logs y detección de amenazas
-Dominio en herramientas de monitoreo, correlación de eventos y respuesta ante incidentes.
-
-💼 Fusión de hacking ético + análisis avanzado de datos
-Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desde una perspectiva integral.
-
-<br/>
-
----
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Arsenal Tecnológico**
 
