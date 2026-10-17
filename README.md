@@ -16,10 +16,9 @@
 <!-- ==================== TYPING BANNER ==================== -->
 <div align="center">
   <a href="#-sobre-mí">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=720&height=100&lines=🔒+Cybersecurity+Junior+%7C+Ethical+Hacker;📊+Future+Data+Scientist+%7C+Developing+Analytical+Skills;🐍+Python+%7C+SQL+%7C+Machine+Learning;🛡️+Penetration+Testing+%7C+Digital+Forensics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=720&height=160&lines=🔒+Cybersecurity+Junior+%7C+Ethical+Hacker;📊+Future+Data+Scientist+%7C+Developing+Analytical+Skills;🐍+Python+%7C+SQL+%7C+Machine+Learning;🛡️+Penetration+Testing+%7C+Digital+Forensics" alt="Typing SVG" />
   </a>
 </div>
-
 <!-- ==================== QUICK LINKS / BADGES ==================== -->
 <div align="center">
   <a href="https://www.linkedin.com/in/carlos-jilapa-yucra/" target="_blank">
