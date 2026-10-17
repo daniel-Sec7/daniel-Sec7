@@ -46,7 +46,6 @@
   </tr>
 </table>
 <br/>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Arsenal Tecnológico**
 
 ### 🐍 **Lenguajes de Programación & Análisis**
